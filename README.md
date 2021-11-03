@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuriDeol
 - 👀 I’m interested in learning phython
-- 🌱 I’m currently learning discreet math and algorithms 
+- 🌱 I’m currently learning discrete math and algorithms 
 - 💞️ I’m looking to collaborate on beginners phython programs
 - 📫 How to reach me @ gurideolofficial@gmail.com
 
